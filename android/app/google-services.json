@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "581784735574",
+    "project_id": "chakra-app-wpun",
+    "storage_bucket": "chakra-app-wpun.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581784735574:android:c54b1adf3dbf82780190f7",
+        "android_client_info": {
+          "package_name": "com.chakraapp.chakra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7mr1YJ4PD0oK6fEm7oWKXBKFTnl50VOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
